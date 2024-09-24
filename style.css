@@ -1,0 +1,29 @@
+header h1 {
+    text-align: center;
+    font-family:Segoe UI;
+}
+header{
+    background-color:blueviolet;
+    color:white;
+    }
+    body{
+    background-color:lightcyan;
+    }
+.logos{
+    height:75px;
+    width:75px;
+}
+header h3 {
+    text-align: center;
+    font-family:Segoe UI;
+}
+td {
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+footer {
+    border:2px solid black;
+    border-radius: 10px;
+    background-color:white;
+}
